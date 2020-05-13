@@ -7,8 +7,7 @@ of the project.  Maven, often known technically as mvn is open source and licens
 tool as one of the earliest tools that reconciled Java development software project activity automation into a single 
 framework.  The use of XML, made its adoption in the software development world rapid, and championed by XML connoisseurs.
 
-![Image]
- (https://github.com/kakuffo/maven/blob/master/images/Maven-Architecture-ju.png)
+![Image] (https://github.com/kakuffo/maven/blob/master/images/Maven-Architecture-ju.png)
 
  Download Link to Maven
  
