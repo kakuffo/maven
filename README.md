@@ -19,3 +19,13 @@ to manage;
 * Software project artifacts cleaning.
 
 ## Maven configuration management
+
+
+### Configuring your Local Repository
+
+### Configurring Proxy
+
+
+### Configuring Parallel Artifact Resolutio
+
+
