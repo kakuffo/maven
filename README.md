@@ -8,13 +8,14 @@ to manage;
 
 * Software project configuration management.
 * Software project artifacts management.
-* SOftware project artifact dependancies management.
+* SOftware project artifact dependencies management.
 * Software project artifacts initialisation.
 * Software project artifacts compiling.
 * Software project artifacts packaging.
 * Software project artifacts unite/integration/acceptance testing.
-* Software project package demployment.
+* Software project package deployment.
 * Software project package documentation.
 * Software project status reporting.
 * Software project artifacts cleaning.
 
+## Maven configuration management
