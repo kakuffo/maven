@@ -16,6 +16,8 @@ software package, integration of the software components, packaging of productio
 acceptance test of the realise candidate software, package of the release software.
 Automation is realised in Maven by the extensibility afforded by XML, and through plugins, goals, dependencies.  The
 definitions of plugins, goals, and dependencies is done in an XML file known as a POM (Project Object Module) file.
+The Maven POM are of a xml design patterns called venetian blind affording maven the advantage of defining plugins, goals, 
+and dependencies global type definitions to increase reuse capabilities necessary for automation.
  
 
  
