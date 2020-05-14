@@ -18,12 +18,22 @@ testing of the software package, integration of the software components, packagi
 release candidates; acceptance test of the realise candidate software, package of the release software.
 
 Automation is realised in Maven by the extensibility afforded by XML, and through plugins, goals, dependencies.  The
-definitions of plugins, goals, and dependencies is done in an XML file known as a POM (Project Object Module) file.
+definitions of plugins, goals, and dependencies in an XML file known as a POM (Project Object Module) file.
 The Maven POM are of a xml design patterns called venetian blind affording maven the advantage of defining plugins, goals, 
 and dependencies global type definitions to increase reuse capabilities necessary for automation.
  
+The project development configurations are defined in another XML file vital to Maven, and called the Settings.xml file.
+There are two locations where a settings.xml file may live:
 
- 
+* The Maven install: 
+``xml
+${maven.home}/conf/settings.xml
+``
+* A user’s install: 
+
+``jave
+${user.home}/.m2/settings.xml
+ ``
 
 ![Image](https://github.com/kakuffo/maven/blob/master/images/Maven-Architecture-ju.png)
 
