@@ -27,12 +27,12 @@ There are two locations where a settings.xml file may live:
 
 * The Maven install: 
 
-`` xml
+`` 
 ${maven.home}/conf/settings.xml
 ``
 * A user’s install: 
 
-`` jave
+`` 
 ${user.home}/.m2/settings.xml
  ``
 
