@@ -6,14 +6,17 @@ Maven allows for software project management, and software project reporting by 
 of the project.  Maven, often known technically as mvn is open source and license as Apache License 2.0.  I view the 
 tool as one of the earliest tools that reconciled Java development software project activity automation into a single 
 framework.  The use of Extensible Markup Language ( XML ), made its adoption in the software development world rapid, 
-and championed by XML connoisseurs.  Maven affords development teams the ability to continuously apply automation to 
+and championed by XML connoisseurs.  
+Maven affords development teams the ability to continuously apply automation to 
 key phase in a Java software development lifecycle.  Uniformity, and consistency in the development phase after coding 
-is vital for overall quality control in any size of software development team.  The phases involved in producing 
-software are; managing the development configuration and dependency artifacts configuration installation, and 
-management; the unit testing of software artifact; the compiling of the software artifact, the packaging of unit 
-tested software artifacts, the packaging of software artifacts into software components, integration testing of the 
-software package, integration of the software components, packaging of production-ready software into release candidates;
-acceptance test of the realise candidate software, package of the release software.
+is vital for overall quality control in any size of software development team.  
+
+The phases involved in producing software are; managing the development configuration and dependency artifacts 
+configuration installation, and management; the unit testing of software artifact; the compiling of the software artifact,
+the packaging of unit tested software artifacts, the packaging of software artifacts into software components, integration
+testing of the software package, integration of the software components, packaging of production-ready software into 
+release candidates; acceptance test of the realise candidate software, package of the release software.
+
 Automation is realised in Maven by the extensibility afforded by XML, and through plugins, goals, dependencies.  The
 definitions of plugins, goals, and dependencies is done in an XML file known as a POM (Project Object Module) file.
 The Maven POM are of a xml design patterns called venetian blind affording maven the advantage of defining plugins, goals, 
