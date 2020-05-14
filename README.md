@@ -13,7 +13,7 @@ is vital for overall quality control in any size of software development team.
 
 The phases involved in producing software are; managing the development configuration and dependency artifacts 
 configuration installation, and management; the unit testing of software artifact; the compiling of the software artifact,
-the packaging of unit tested software artifacts, the packaging of software artifacts into software components, integration
+the packaging of unit tested software artifacts, the packaging of software unit artifacts into software components, integration
 testing of the software package, integration of the software components, packaging of production-ready software into 
 release candidates; acceptance test of the realise candidate software, package of the release software.
 
