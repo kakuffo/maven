@@ -26,6 +26,7 @@ The project development configurations are defined in another XML file vital to 
 There are two locations where a settings.xml file may live:
 
 * The Maven install: 
+
 ``xml
 ${maven.home}/conf/settings.xml
 ``
